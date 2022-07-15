@@ -1,0 +1,25 @@
+2022-07-14 11:12:16,825|INFO|loggerFile|constrImplementation.py|IneuronMembers.__init__() missing 1 required positional argument: 'state'
+2022-07-14 15:32:46,443|INFO|loggerFile|Inheritense.py|module() takes at most 2 arguments (3 given)
+2022-07-14 15:34:32,720|INFO|loggerFile|Inheritense.py|module() takes at most 2 arguments (3 given)
+2022-07-14 15:42:35,168|INFO|loggerFile|Inheritense.py|module() takes at most 2 arguments (3 given)
+2022-07-14 15:43:06,221|INFO|loggerFile|Inheritense.py|module() takes at most 2 arguments (3 given)
+2022-07-14 15:44:05,615|INFO|loggerFile|Inheritense.py|module() takes at most 2 arguments (3 given)
+2022-07-14 15:44:44,541|INFO|loggerFile|Inheritense.py|module() takes at most 2 arguments (3 given)
+2022-07-14 15:45:24,989|INFO|loggerFile|Inheritense.py|module() takes at most 2 arguments (3 given)
+2022-07-15 22:04:00,755|INFO|loggerFile|AccessModifiers.py|'MentorDetails' object has no attribute '__mentor_personal'
+2022-07-15 22:04:26,865|INFO|loggerFile|AccessModifiers.py|'MentorDetails' object has no attribute '__mentor_personal'
+2022-07-15 22:12:45,374|INFO|loggerFile|AccessModifiers.py|'MentorDetails' object has no attribute '__mentor_personal'
+2022-07-15 22:50:07,175|INFO|loggerFile|methodOverrdiding.py|IneuronClass.class_details() missing 1 required positional argument: 'self'
+2022-07-15 22:52:00,856|INFO|loggerFile|methodOverrdiding.py|IneuronClass.class_details() missing 1 required positional argument: 'self'
+2022-07-15 22:54:28,884|INFO|loggerFile|methodOverrdiding.py|IneuronClass.class_details() missing 1 required positional argument: 'self'
+2022-07-15 22:58:56,124|INFO|loggerFile|methodOverrdiding.py|IneuronClass.class_details() missing 1 required positional argument: 'self'
+2022-07-15 23:04:08,784|INFO|loggerFile|methodOverrdiding.py|IneuronClass.class_details() missing 1 required positional argument: 'self'
+
+2022-07-15 23:16:29,308|INFO|loggerFile|methodOverrdiding.py|IneuronClass.class_details() missing 1 required positional argument: 'self'
+2022-07-15 23:17:08,186|INFO|loggerFile|methodOverrdiding.py|IneuronClass.class_details() missing 2 required positional arguments: 'self' and 'time'
+2022-07-15 23:18:39,819|INFO|loggerFile|methodOverrdiding.py|IneuronClass.class_details() missing 1 required positional argument: 'self'
+2022-07-15 23:19:21,240|INFO|loggerFile|methodOverrdiding.py|IneuronClass.class_details() missing 1 required positional argument: 'self'
+2022-07-15 23:21:18,644|INFO|loggerFile|methodOverrdiding.py|IneuronClass.class_details() missing 1 required positional argument: 'self'
+2022-07-15 23:24:59,371|INFO|loggerFile|methodOverrdiding.py|IneuronClass.class_details() missing 1 required positional argument: 'self'
+2022-07-15 23:25:24,901|INFO|loggerFile|methodOverrdiding.py|IneuronClass.class_details() missing 1 required positional argument: 'self'
+2022-07-15 23:25:32,428|INFO|loggerFile|methodOverrdiding.py|IneuronClass.class_details() missing 1 required positional argument: 'self'
